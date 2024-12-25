@@ -1,0 +1,17 @@
+canvas,
+body { background: black; }
+html, body { margin: 0; padding: 0; overflow:hidden; }
+#logo { 
+	position: absolute;
+  right:0px;
+  bottom:0px;
+}
+#badge,
+#badge2 {
+  width:60px;
+  height:70px;
+  position: absolute;
+  left:10px;
+  bottom:10px;
+  cursor: default;
+}
